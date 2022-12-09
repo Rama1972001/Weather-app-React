@@ -1,0 +1,50 @@
+.container {
+  width: 100%;
+  margin: 20px auto;
+  padding: 20px;
+  opacity: 0.95;
+  background-color: #9ccef4;
+  height: 90vh;
+
+}
+
+
+
+.app__main {
+  margin-top: 150px !important;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+.top-input {
+  padding: 30px;
+  width: 30% !important;
+
+}
+
+.app-top {
+
+  background-color: #759eda;
+  height: 10vh;
+  width: 87%;
+  position: absolute;
+  top: 20px;
+  left: 107px;
+}
+
+
+/* .app__main {
+  background-color: aqua;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+} */
